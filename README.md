@@ -1,2 +1,2 @@
- [#MOGO](https://vadzim-su.github.io/MOGO/)
+ [MOGO](https://vadzim-su.github.io/MOGO/)
 
