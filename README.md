@@ -1,2 +1,2 @@
-# MOGO
-One page website template
+ [#MOGO](https://vadzim-su.github.io/MOGO/)
+
